@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Yitian Xia"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio"
   location         : "San Francisco, CA"
   email            :
